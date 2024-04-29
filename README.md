@@ -1,4 +1,4 @@
-Hi there 👋
+Hallo everyone
 
 - 🔭 I’m currently student on Clarusway
 - 🌱 LINUX;AGIALE;and GIT\GITHUB what I learnd
